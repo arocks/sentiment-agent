@@ -11,6 +11,6 @@ A simple agent which analyses the sentiment of a given search term by searching 
 - Python 3.10+
 - Git, for cloning the repository.
 
-## 📄 License
+## License
 
 This project is licensed under the Apache 2.0 License - see the [LICENSE file](LICENSE) for details.
