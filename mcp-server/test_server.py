@@ -16,7 +16,6 @@ async def test_server():
         result = await client.call_tool(
             "get_top_hn_results", {"search_term": "Google Cloud"}
         )
-        breakpoint()
         print(f"--- ✅  Success: {result[0].text} ---")
 
 
